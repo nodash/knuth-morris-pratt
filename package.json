@@ -1,0 +1,29 @@
+{
+  "name": "knuth-morris-pratt",
+  "version": "1.0.0",
+  "description": "An implementation of the Knuth-Morris-Pratt string searching algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodash/knuth-morris-pratt.git"
+  },
+  "keywords": [
+    "strings",
+    "string",
+    "string-search",
+    "search",
+    "knuth",
+    "morris",
+    "pratt",
+    "kmp"
+  ],
+  "author": "Julian Alexander Fleischer <tirednesscankill@warhog.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodash/knuth-morris-pratt/issues"
+  },
+  "homepage": "https://github.com/nodash/knuth-morris-pratt"
+}
