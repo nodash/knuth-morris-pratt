@@ -4,7 +4,7 @@
   "description": "An implementation of the Knuth-Morris-Pratt string searching algorithm.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint index.js"
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,12 @@
     "kmp"
   ],
   "author": "Julian Alexander Fleischer <tirednesscankill@warhog.net>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nodash/knuth-morris-pratt/issues"
   },
-  "homepage": "https://github.com/nodash/knuth-morris-pratt"
+  "homepage": "https://github.com/nodash/knuth-morris-pratt",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  }
 }
