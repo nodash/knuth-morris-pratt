@@ -8,7 +8,7 @@ string searching algorithm in JavaScript (it works with strings ***and*** arrays
 License
 -------
 
-    Copyright (c) 2015 Julian Fleischer
+    Copyright (c) 2015 Julian Alexander Fleischer
 
     Permission is hereby granted, free of charge, to any
     person obtaining a copy of this software and associated
